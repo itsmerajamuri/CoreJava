@@ -1,0 +1,15 @@
+package com.lambdaexpression;
+
+
+public class Lambda1 {
+	public static void main(String[] args) {
+		
+		 FunctionalInterface functionalInterface=(int a,int b)->a+b;
+			
+		 
+		 functionalInterface.getid();
+	}
+	
+
+
+}

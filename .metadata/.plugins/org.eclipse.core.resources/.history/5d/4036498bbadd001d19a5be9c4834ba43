@@ -1,0 +1,8 @@
+package com.lambdaexpression;
+
+  @FunctionalInterface
+  interface FunctionalInterface {
+	
+	 void getid();
+
+}
